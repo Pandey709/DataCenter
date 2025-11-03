@@ -1,20 +1,215 @@
-# DataCenter
-
-Resources for Northern Virginia data center career research.
-
-## Files
-
-- [DataCenter.md](DataCenter.md) — Northern Virginia data centers by owner/operator, campus names, and notes.
-- [JobsSearch.md](JobsSearch.md) — Official careers and job search portals for each operator; filter for Northern Virginia locations.
-- [Jobs-2023-11-03.md](Jobs-2023-11-03.md) — Internships and non‑degree roles; direct links to internship pages and entry‑level technician/apprentice/trainee roles.
-
-## Jobs Search Links for Northern Virginia Data Center Operators
+# Jobs and Internships (2023-11-03) — Links to internships and non-degree roles
 
 Scope
-- This section maps each owner/operator listed in DataCenter.md to their official careers or job search portals.
+- Sourced from the operators/providers listed in JobsSearch.md.
+- Focus: direct links to internship listings/pages and roles that do not require a bachelor’s degree (e.g., technicians, apprentices, trainees, workforce-development programs).
+- Requirements vary by posting; always verify on the job page.
+
+## Major Colocation and Hyperscale Operators
+
+Equinix
+- Internships: 
+  - Students & Recent Grads: https://careers.equinix.com/students-recent-grads
+  - Global Internship Program: https://careers.equinix.com/global-internship
+- Non-degree roles:
+  - Technician search (shows Apprentice/Trainee roles): https://careers.equinix.com/jobs/search?query=technician
+
+Digital Realty
+- Internships:
+  - Job search filtered for “intern”: https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions?keyword=intern
+- Non-degree roles:
+  - Technician search: https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions?keyword=technician
+
+NTT Global Data Centers
+- Internships:
+  - Example: Intern/Apprentice listing: https://careers.services.global.ntt/global/en/job/R-132624/Intern-Apprentice
+  - Careers portal: https://careers.services.global.ntt/global/en/global-data-centers-careers
+- Non-degree roles:
+  - Use the careers portal and search “technician” or “data center technician”
+
+CloudHQ
+- Internships:
+  - Careers page (internships appear periodically, e.g., Accounting Internship): https://cloudhq.com/careers
+- Non-degree roles:
+  - Use the careers page search for “technician” or “operations”
+
+Vantage Data Centers
+- Internships:
+  - Workday portal (use keyword “intern”): https://vantagedc.wd1.myworkdayjobs.com/Vantage
+- Non-degree roles:
+  - Workday portal (search “technician” or “critical facilities”): https://vantagedc.wd1.myworkdayjobs.com/Vantage
+
+Aligned Data Centers
+- Internships:
+  - Careers: https://aligneddc.com/careers 
+  - Workday portal (use keyword “intern”): https://aligneddc.wd12.myworkdayjobs.com/aligneddc
+- Non-degree roles:
+  - Search “technician” or “facilities technician” in the Workday portal: https://aligneddc.wd12.myworkdayjobs.com/aligneddc
+
+Sabey Data Centers
+- Internships:
+  - Careers page: https://sabeydatacenters.com/about/careers
+- Non-degree roles:
+  - Use the careers page; search “technician” or “operations”
+
+Cologix
+- Internships:
+  - Careers page: https://cologix.com/about-us/careers/
+- Non-degree roles:
+  - Use the careers page; search “technician” or “data center”
+
+QTS Data Centers
+- Internships:
+  - Internship program overview: https://qtsdatacenters.com/resources/starting-blocks-to-high-potential-data-center-careers/
+  - Workday job portal (use keyword “intern”): https://qtsdatacenters.wd5.myworkdayjobs.com/QTS
+- Non-degree roles:
+  - Veteran/SkillBridge pathway (non-degree friendly): https://qtsdatacenters.com/join-our-team/veteran-careers-2/ (Apply: https://qtsdatacenters.wd5.myworkdayjobs-impl.com/QTSVeterans)
+
+Stack Infrastructure
+- Internships:
+  - Careers: https://www.stackinfra.com/about/careers/
+- Non-degree roles:
+  - Use careers page; search “technician” or “critical operations”
+
+EdgeCore Digital Infrastructure
+- Internships:
+  - Roles are typically posted via LinkedIn/ZipRecruiter; check https://edgecore.com
+- Non-degree roles:
+  - Search “technician” or “operations” via external job boards
+
+Skybox Datacenters
+- Internships:
+  - Careers page: https://www.skyboxdatacenters.com/careers
+- Non-degree roles:
+  - Use the careers page; search “technician” or “critical facilities”
+
+Centersquare
+- Internships:
+  - Careers page: https://centersquaredc.com/careers
+- Non-degree roles:
+  - Use the careers page; search “technician” or “operations”
+
+Rackspace
+- Internships:
+  - Filtered listing with “intern”: https://jobs.lever.co/rackspace?search=intern
+- Non-degree roles:
+  - Use Lever search for “technician” or “data center”
+
+H5 Data Centers
+- Internships:
+  - Careers page: https://h5datacenters.com/data-center-careers.html
+- Non-degree roles:
+  - Use the careers page; search “technician” or “facility technician”
+
+CoreSite
+- Internships:
+  - Qualification Program (new-to-industry entry path): https://www.coresite.com/blog/coresites-qualification-program-driving-career-opportunities-and-operational-excellence
+  - Careers: https://www.coresite.com/about/careers
+- Non-degree roles:
+  - Qualification Program is designed for candidates without formal degrees; apply via CoreSite careers: https://www.coresite.com/about/careers
+
+Evocative
+- Internships:
+  - Careers page: https://evocative.com/about/careers/
+- Non-degree roles:
+  - Use the careers page; search “technician” or “data center”
+
+Lincoln Rackhouse (Lincoln Property Company)
+- Internships:
+  - Lincoln Property Company Careers: https://lpc.com/about-us/careers/
+  - Greenhouse: https://job-boards.greenhouse.io/lincolnpropertycompany
+- Non-degree roles:
+  - Use the LPC careers search for “technician” or “operations”
+
+Lumen (CenturyLink)
+- Internships:
+  - Lumen jobs search (keyword “intern”): https://jobs.lumen.com/search/jobs?keywords=intern
+- Non-degree roles:
+  - Use Lumen jobs search for “technician”
+
+Iron Mountain Data Centers
+- Internships:
+  - Iron Mountain jobs (keyword “intern”): https://ironmountain.jobs/search/?search=intern
+- Non-degree roles:
+  - Data Center jobs category: https://ironmountain.jobs/job-category/data-center-jobs/jobs/
+
+Corscale
+- Internships:
+  - Contact via site (roles posted as available): https://corscale.com/contact/
+- Non-degree roles:
+  - Use contact/careers; search “technician” or “operations”
+
+TA Realty
+- Internships:
+  - MBA Summer Associate Internship: https://ats.rippling.com/ta-realty-llc/jobs
+- Non-degree roles:
+  - Most roles require degree; check postings
+
+Yondr Group
+- Internships:
+  - Careers: https://www.yondr.com/careers 
+  - Greenhouse board: https://job-boards.eu.greenhouse.io/yondrgroup (search “intern”)
+- Non-degree roles:
+  - Use the careers page; search “technician”
+
+Prologis
+- Internships:
+  - Internship programme (UK example): https://uk-beta.prologis.com/internship-programme
+  - Careers overview: https://www.prologis.com/about/careers
+- Non-degree roles:
+  - Varies by role; check postings
+
+JK Land Holdings
+- Internships:
+  - Not published; check affiliates such as JK Moving Services: https://careers.jkmoving.com
+- Non-degree roles:
+  - Not typically applicable; check affiliates
+
+CyrusOne
+- Internships:
+  - Workday portal (use keyword “intern”): https://cyrusone.wd1.myworkdayjobs.com/CyrusOneCareerPortal
+- Non-degree roles:
+  - Search “technician” or “operations” in the Workday portal
+
+DataBank
+- Internships:
+  - Careers: https://www.databank.com/careers/
+- Non-degree roles:
+  - Use the careers page; search “technician” or “facility engineer”
+
+## Cloud Providers (regional presence in Northern Virginia)
+
+Amazon Web Services (AWS)
+- Internships/entry programs:
+  - Work-Based Learning Program (12-month paid, no prior experience required): https://amazon.jobs/content/en/amazon-web-services/data-centers/work-based-learning-program
+- Non-degree roles:
+  - WBLP roles include Operations Tech, Install Tech, Decommissioning Tech, Logistics Specialist (non-degree friendly)
+
+Google (Data Centers)
+- Internships/entry programs:
+  - Workforce Development (STAR Program, skilled trades training; high school/GED minimum): https://datacenters.google/workforce-development-program
+- Non-degree roles:
+  - Data centers career page: https://datacenters.google/careers (explore Data Center Technician and Facilities roles; some do not require a bachelor’s)
+
+Microsoft (Datacenter roles)
+- Internships/entry programs:
+  - Datacenter Academy and pathways: https://careers.microsoft.com/v2/global/en/datacenteracademy.html
+- Non-degree roles:
+  - Datacenter Operations careers (high-school diploma sufficient; training provided): https://careers.microsoft.com/v2/global/en/datacentertechnicians.html
+  - Search technician openings: https://jobs.careers.microsoft.com/global/en/search?p=Data%20Center&p=Supply%20Chain&d=Critical%20Environment%20Ops&d=Materials%20Handling&d=Data%20Center%20Technicians&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true
+
+---
+Notes
+- For Workday portals, use the search bar to filter by “intern” or “technician”.
+- Non-degree roles commonly include Data Center Technician, Critical Environment Technician, Inventory/Asset Technician, and similar technician/apprentice/trainee roles.
+
+# Job Search Links for Northern Virginia Data Center Operators
+
+Scope
+- This file maps each owner/operator listed in DataCenter.md to their official careers or job search portals.
 - Tip: Filter for Northern Virginia locations (Ashburn, Sterling, Reston, Herndon, Manassas, Gainesville, Leesburg, Chantilly) or ZIP 22003 radius.
 
-### Major Colocation and Hyperscale Operators
+## Major Colocation and Hyperscale Operators
 
 - Equinix — https://careers.equinix.com
 - Digital Realty — https://careers.digitalrealty.com
@@ -44,12 +239,17 @@ Scope
 - CyrusOne — https://www.cyrusone.com/company/careers • Workday: https://cyrusone.wd1.myworkdayjobs.com/CyrusOneCareerPortal
 - DataBank — https://www.databank.com/careers/
 
-### Cloud Providers (regional presence in Northern Virginia)
+## Cloud Providers (regional presence in Northern Virginia)
 
 - Amazon Web Services (AWS) — AWS Data Centers overview: https://www.amazon.jobs/content/en/teams/amazon-web-services/data-centers • Job search (Data Center): https://www.amazon.jobs/en/search?base_query=Data+Center
 - Google (Data Centers) — https://datacenters.google/careers • Google Careers search: https://careers.google.com/jobs
 - Microsoft (Datacenter roles) — https://careers.microsoft.com/v2/global/en/datacentertechnicians.html • Microsoft Careers: https://careers.microsoft.com
 
 ---
-
 Prepared for job and career research across Northern Virginia data center operators and cloud providers.
+
+## Files
+
+- [DataCenter.md](DataCenter.md) — Northern Virginia data centers by owner/operator, campus names, and notes.
+- [JobsSearch.md](JobsSearch.md) — Official careers and job search portals for each operator; filter for Northern Virginia locations.
+- [Jobs-2023-11-03.md](Jobs-2023-11-03.md) — Internships and non‑degree roles; direct links to internship pages and entry‑level technician/apprentice/trainee roles.
